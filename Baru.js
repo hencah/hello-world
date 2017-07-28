@@ -5,3 +5,4 @@ function setup(a) {
 var s = setup;
 
 console.log(s());
+console.log("end");
